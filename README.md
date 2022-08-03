@@ -1,8 +1,11 @@
-<h1 align="center"> Projeto do [Bootcamp Linux Experience](https://web.dio.me/track/5185f031-7dc5-466e-bffb-2db01bf7abb3) da plataforma [DIO](https://web.dio.me/home)</h1>
+<h1 align="center"> Projeto do [Bootcamp Linux Experience](https://web.dio.me/track/5185f031-7dc5-466e-bffb-2db01bf7abb3) da </h1>
 
  <h4 align="center"> 
       Projeto finalizado :heavy_check_mark:
 </h4>
+
+
+plataforma [DIO](https://web.dio.me/home)
 
 ##  :mag_right: Infraestrutura do Projeto
 
