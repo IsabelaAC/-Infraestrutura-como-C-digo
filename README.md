@@ -1,12 +1,17 @@
-<h1 align="center"> Projeto do [Bootcamp Linux Experience](https://web.dio.me/track/5185f031-7dc5-466e-bffb-2db01bf7abb3) da </h1>
+<h1 align="center"> Projeto do Bootcamp Linux Experience</h1>
 
  <h4 align="center"> 
       Projeto finalizado :heavy_check_mark:
 </h4>
 
+## :grey_exclamation: Informações do Bootcamp
 
-plataforma [DIO](https://web.dio.me/home)
+O bootcamp [Linux Experience](https://web.dio.me/track/linux-experience) consiste em aprender na prática com atividades voltadas ao mercado de trabalho a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.
 
+A plataforma [DIO](https://web.dio.me/home) é a responsável pela oferta desse bootcamp e emissão de certificados.
+
+
+principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor
 ##  :mag_right: Infraestrutura do Projeto
 
 Projeto consiste em um script para a criação de usuários, grupos de usuários, diretórios e permissões dos mesmos de forma automatizada.
