@@ -11,7 +11,6 @@ O bootcamp [Linux Experience](https://web.dio.me/track/linux-experience) consist
 A plataforma [DIO](https://web.dio.me/home) é a responsável pela oferta desse bootcamp e emissão de certificados.
 
 
-principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor
 ##  :mag_right: Infraestrutura do Projeto
 
 Projeto consiste em um script para a criação de usuários, grupos de usuários, diretórios e permissões dos mesmos de forma automatizada.
