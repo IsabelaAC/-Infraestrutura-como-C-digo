@@ -24,7 +24,7 @@ Realizar a clonagem do repositório.
 Após a clonagem do repositório deve-se instalar as dependências com npm install  e os arquivos estarão prontos para rodar.
 
 ## :computer: Tecnologias utilizadas
-- Comandos do servidor Linux
+- Bash Unix
 
 ##  :woman: Desenvolvedora
  
